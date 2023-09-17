@@ -1,5 +1,5 @@
 # RT_Face_Recognition
-Inspired by facial_recogniton library and examples
+Inspired by facial_recogniton library and examples <br>
 A real time face recognition program that compares faces seen on the webcam with a sample images. Works with images on a digital screen as well. <br>
 Make sure to change the path to the path to your images folder. <br>
 Place 1 image per person you want to have recognized by the program in the images folder and name the image by the name of the person in it. <br>
